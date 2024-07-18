@@ -1,6 +1,6 @@
 # NLP Job Analysis
-
-This project analyzes job descriptions from LinkedIn using NLP techniques to extract the most relevant keywords.
+In Progress
+This project analyzes job descriptions from LinkedIn.
 
 ## Installation
 

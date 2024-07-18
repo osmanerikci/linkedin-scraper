@@ -1,5 +1,5 @@
 # NLP Job Analysis
-In Progress__
+In Progress\
 This project analyzes job descriptions from LinkedIn.
 
 ## Installation
